@@ -5,7 +5,12 @@ body{
 }
 nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 align-items: center;
 background-color: white;
+} 
+li{
+    list-style: none;
+    display: inline;
+    margin: 30px;
 }
